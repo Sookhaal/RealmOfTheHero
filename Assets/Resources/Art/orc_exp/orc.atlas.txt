@@ -1,0 +1,111 @@
+
+orc.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 824, 1685
+  size: 361, 908
+  orig: 361, 908
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 2, 1172
+  size: 820, 874
+  orig: 820, 874
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 2, 2
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 824, 1194
+  size: 545, 489
+  orig: 545, 489
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1941, 1842
+  size: 105, 204
+  orig: 105, 204
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1941, 1801
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+eye_happy
+  rotate: false
+  xy: 1734, 1729
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+eye_sad
+  rotate: false
+  xy: 367, 90
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 496, 853
+  size: 293, 317
+  orig: 293, 317
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1734, 1782
+  size: 205, 264
+  orig: 205, 264
+  offset: 0, 0
+  index: -1
+head_happy
+  rotate: false
+  xy: 1371, 1419
+  size: 205, 264
+  orig: 205, 264
+  offset: 0, 0
+  index: -1
+lower_jaw
+  rotate: false
+  xy: 496, 655
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+lower_jaw happy
+  rotate: false
+  xy: 1371, 1221
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
+meche
+  rotate: true
+  xy: 2, 25
+  size: 127, 363
+  orig: 127, 363
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 154
+  size: 492, 1016
+  orig: 492, 1016
+  offset: 0, 0
+  index: -1

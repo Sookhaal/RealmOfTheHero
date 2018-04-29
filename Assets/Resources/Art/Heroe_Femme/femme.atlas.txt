@@ -1,0 +1,181 @@
+
+femme.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: false
+  xy: 973, 150
+  size: 376, 464
+  orig: 376, 464
+  offset: 0, 0
+  index: -1
+Bouche_1
+  rotate: false
+  xy: 1450, 969
+  size: 156, 352
+  orig: 156, 352
+  offset: 0, 0
+  index: -1
+Bouche_2
+  rotate: true
+  xy: 1962, 1207
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+Bouche_3
+  rotate: false
+  xy: 1621, 814
+  size: 196, 164
+  orig: 196, 164
+  offset: 0, 0
+  index: -1
+Bouche_4
+  rotate: false
+  xy: 1481, 1328
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Bouche_6
+  rotate: false
+  xy: 1819, 954
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Cape_Derrière1
+  rotate: false
+  xy: 806, 1323
+  size: 673, 723
+  orig: 673, 723
+  offset: 0, 0
+  index: -1
+Cape_Derrière2
+  rotate: false
+  xy: 793, 616
+  size: 655, 705
+  orig: 655, 705
+  offset: 0, 0
+  index: -1
+Cape_Devant
+  rotate: false
+  xy: 2, 598
+  size: 789, 723
+  orig: 789, 723
+  offset: 0, 0
+  index: -1
+Cou
+  rotate: false
+  xy: 1747, 1608
+  size: 288, 438
+  orig: 288, 438
+  offset: 0, 0
+  index: -1
+Cuir
+  rotate: true
+  xy: 1608, 980
+  size: 110, 286
+  orig: 110, 286
+  offset: 0, 0
+  index: -1
+Eclat_3
+  rotate: false
+  xy: 1501, 199
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Eclat_33
+  rotate: false
+  xy: 637, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: true
+  xy: 2, 43
+  size: 553, 633
+  orig: 553, 633
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 637, 70
+  size: 334, 526
+  orig: 334, 526
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 1481, 1376
+  size: 264, 670
+  orig: 264, 670
+  offset: 0, 0
+  index: -1
+Nez_1
+  rotate: false
+  xy: 1501, 273
+  size: 156, 352
+  orig: 156, 352
+  offset: 0, 0
+  index: -1
+Nez_2
+  rotate: false
+  xy: 1896, 1053
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Robe
+  rotate: false
+  xy: 2, 1323
+  size: 802, 723
+  orig: 802, 723
+  offset: 0, 0
+  index: -1
+Visage
+  rotate: false
+  xy: 1747, 1277
+  size: 271, 329
+  orig: 271, 329
+  offset: 0, 0
+  index: -1
+Yeux
+  rotate: true
+  xy: 1608, 1092
+  size: 183, 352
+  orig: 183, 352
+  offset: 0, 0
+  index: -1
+Yeux_1
+  rotate: false
+  xy: 1450, 627
+  size: 169, 340
+  orig: 169, 340
+  offset: 0, 0
+  index: -1
+Yeux_3
+  rotate: false
+  xy: 1621, 722
+  size: 172, 90
+  orig: 172, 90
+  offset: 0, 0
+  index: -1
+Yeux_4
+  rotate: false
+  xy: 973, 74
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+Yeux_6
+  rotate: true
+  xy: 1351, 123
+  size: 491, 148
+  orig: 491, 148
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8d54347237454c83353204f36a4912, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  Like: 1
+  Neutral: 3
+  Hate: 2
+  Arouseness: 100
+  DefaultArouseness: 0
+  EncounterCompleted: 1
+  Failures: 0
+  RequiredArouseness: 100
+  IntroDialogTexts:
+  - {fileID: 11400000, guid: 7e03e879e84d2c34bb53d6a8cf1dde30, type: 2}
+  - {fileID: 11400000, guid: 522d32dba664e4e42ba7b54129c7d1ac, type: 2}
+  - {fileID: 11400000, guid: b6fc9e5bed1cc7e4cb2c99de2545cd47, type: 2}
+  - {fileID: 11400000, guid: 0c1f0f5c67c78a9468e9cf95d397d0c6, type: 2}
+  - {fileID: 11400000, guid: 6bcf4190133f55d45bfdeb49b5705688, type: 2}
+  WinDialogTexts:
+  - {fileID: 11400000, guid: 42daed4016136874492ed33901105a8b, type: 2}
+  - {fileID: 11400000, guid: a3ba02412fed26043ab2ade40bb35c89, type: 2}
+  - {fileID: 11400000, guid: 56d36d353b3a9b54fa3d5af7b5af8768, type: 2}
+  - {fileID: 11400000, guid: 8321826f41906cc4a95c6e6e1f14a3cf, type: 2}
+  - {fileID: 11400000, guid: bd15e4cf0dcf42c4d959fe34a226b922, type: 2}
+  - {fileID: 11400000, guid: d9814cd2ac59e5340ab13926c5bf6e41, type: 2}
+  LostDialogTexts:
+  - {fileID: 11400000, guid: ce7da40ff48b63c40bd654e6b86713a7, type: 2}
+  - {fileID: 11400000, guid: 6126bc0b395ddd146b794a41c772672a, type: 2}
+  - {fileID: 11400000, guid: b62e6753fb602054596b1b4a8e62b4d6, type: 2}
+  LikeDialogTexts:
+  - {fileID: 11400000, guid: e9d3a400122a7874d85cedc51404a890, type: 2}
+  - {fileID: 11400000, guid: ed73457bd3ef9ce4db8de9517f80257e, type: 2}
+  - {fileID: 11400000, guid: df86ac9df28c91e4f9976678747b9f9d, type: 2}
+  DislikeDialogTexts:
+  - {fileID: 11400000, guid: 44bbd425335aaef4bb085934cd1a3de6, type: 2}
+  - {fileID: 11400000, guid: 71f7f8a3b4a4b184fbffb5bfd63e092a, type: 2}
+  - {fileID: 11400000, guid: ada2791d95d88614b8aead0594c5daa1, type: 2}
+  NeutralDialogTexts:
+  - {fileID: 11400000, guid: 2568f0e25296a084aa31a7816b9eff71, type: 2}
+  - {fileID: 11400000, guid: 837ecb6f4f2b3494392e644f36ca5a32, type: 2}
+  - {fileID: 11400000, guid: 395935701d40d254293b3d16ff5fd49e, type: 2}
+  CurrentDialogIndex: 0
+  IntroDone: 0
+  OutroDone: 1
+  EncounterCharacter: 0

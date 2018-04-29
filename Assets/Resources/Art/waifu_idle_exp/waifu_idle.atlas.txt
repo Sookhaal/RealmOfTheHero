@@ -1,0 +1,209 @@
+
+waifu_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 912, 563
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+blush
+  rotate: false
+  xy: 992, 917
+  size: 255, 144
+  orig: 255, 144
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1120
+  size: 802, 926
+  orig: 802, 926
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 2, 303
+  size: 815, 584
+  orig: 815, 584
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 2, 19
+  size: 87, 192
+  orig: 87, 192
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 1985, 1871
+  size: 175, 54
+  orig: 175, 54
+  offset: 0, 0
+  index: -1
+eye_L_closed
+  rotate: false
+  xy: 241, 75
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+eye_L_horny
+  rotate: false
+  xy: 372, 226
+  size: 175, 75
+  orig: 175, 75
+  offset: 0, 0
+  index: -1
+eye_L_sad
+  rotate: false
+  xy: 1985, 1817
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 1249, 992
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+eye_R_closed
+  rotate: true
+  xy: 549, 226
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+eye_R_horny
+  rotate: false
+  xy: 992, 843
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+eye_R_sad
+  rotate: false
+  xy: 372, 161
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: false
+  xy: 1249, 976
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+eyebrow_L_horny
+  rotate: false
+  xy: 1985, 1782
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+eyebrow_L_sad
+  rotate: false
+  xy: 2, 7
+  size: 58, 10
+  orig: 58, 10
+  offset: 0, 0
+  index: -1
+eyebrow_R
+  rotate: false
+  xy: 789, 492
+  size: 84, 21
+  orig: 84, 21
+  offset: 0, 0
+  index: -1
+eyebrow_R_horny
+  rotate: true
+  xy: 1430, 1439
+  size: 77, 12
+  orig: 77, 12
+  offset: 0, 0
+  index: -1
+eyebrow_R_sad
+  rotate: true
+  xy: 196, 2
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+forearm_L
+  rotate: false
+  xy: 806, 1518
+  size: 641, 528
+  orig: 641, 528
+  offset: 0, 0
+  index: -1
+forearm_R
+  rotate: false
+  xy: 1449, 1527
+  size: 534, 519
+  orig: 534, 519
+  offset: 0, 0
+  index: -1
+goutte
+  rotate: false
+  xy: 1079, 864
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 806, 1063
+  size: 453, 622
+  orig: 453, 622
+  offset: 0, 0
+  index: -1
+hand_L_behind
+  rotate: false
+  xy: 789, 515
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 588, 597
+  size: 402, 464
+  orig: 402, 464
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 992, 807
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+mouth_horny
+  rotate: false
+  xy: 588, 1065
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+sleeve_L
+  rotate: false
+  xy: 588, 304
+  size: 199, 291
+  orig: 199, 291
+  offset: 0, 0
+  index: -1
+sleeve_R
+  rotate: true
+  xy: 2, 108
+  size: 193, 368
+  orig: 193, 368
+  offset: 0, 0
+  index: -1

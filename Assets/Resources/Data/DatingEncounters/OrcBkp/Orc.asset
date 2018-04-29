@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8d54347237454c83353204f36a4912, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  Like: 1
+  Neutral: 3
+  Hate: 2
+  Arouseness: 0
+  DefaultArouseness: 0
+  EncounterCompleted: 0
+  Failures: 0
+  RequiredArouseness: 100
+  IntroDialogTexts: []

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8d54347237454c83353204f36a4912, type: 3}
+  m_Name: Pretresse
+  m_EditorClassIdentifier: 
+  Like: 2
+  Neutral: 1
+  Hate: 3
+  Arouseness: 0
+  DefaultArouseness: 0
+  EncounterCompleted: 0
+  Failures: 0
+  RequiredArouseness: 100
+  IntroDialogTexts:
+  - {fileID: 11400000, guid: 9dac06b4787687c46804e2f2e66da0e8, type: 2}
+  - {fileID: 11400000, guid: 64fef6918276b3846b65a3b2fb76afaf, type: 2}
+  - {fileID: 11400000, guid: 4cc935cad2a80db4692ae45a253e802c, type: 2}
+  - {fileID: 11400000, guid: a2c08b73847b30749bbd6350b42a43c6, type: 2}
+  - {fileID: 11400000, guid: ddfc180dad7a0134fa9ca8d3c2efe1dd, type: 2}
+  - {fileID: 11400000, guid: febf5f857bc02924d92d250143bc9dc9, type: 2}
+  WinDialogTexts:
+  - {fileID: 11400000, guid: c67035df0d700414089c3f47c29ddf76, type: 2}
+  - {fileID: 11400000, guid: 8a4ebb5e0c3bae64f8746bbce17790e1, type: 2}
+  - {fileID: 11400000, guid: 190df53c2c569b84a8e3551911f4f9f3, type: 2}
+  - {fileID: 11400000, guid: ae4c600a00e11e8488292c07a82ea36c, type: 2}
+  - {fileID: 11400000, guid: 8f78063ddbf7d9f42b352609b8c9ad3d, type: 2}
+  - {fileID: 11400000, guid: ce041b6b6680deb468c0c65e108a92f3, type: 2}
+  LostDialogTexts:
+  - {fileID: 11400000, guid: 36f51273a56de0f479934df9ce8801fb, type: 2}
+  - {fileID: 11400000, guid: 00fb1670b1be0dc43a20dda5b35cde2e, type: 2}
+  - {fileID: 11400000, guid: 1f96055fe2b797840a6a41c5f1d016ea, type: 2}
+  - {fileID: 11400000, guid: 510f679038d7e49428d6d68813fc85c3, type: 2}
+  LikeDialogTexts:
+  - {fileID: 11400000, guid: 8c181eb58314b524d9a26f899741e5a8, type: 2}
+  - {fileID: 11400000, guid: d3cd276a396d08648b86a1ff23910275, type: 2}
+  - {fileID: 11400000, guid: ffd27bd662579344987a7ccd871f96fd, type: 2}
+  DislikeDialogTexts:
+  - {fileID: 11400000, guid: 707147f29de60654bbd94e71cc070272, type: 2}
+  - {fileID: 11400000, guid: b40680e81436abb49b9b8c675f5d44ae, type: 2}
+  - {fileID: 11400000, guid: 69cc62e3553f29d4b8319999fa408639, type: 2}
+  NeutralDialogTexts:
+  - {fileID: 11400000, guid: 07d5562b540096449bf6d89517b98ec6, type: 2}
+  - {fileID: 11400000, guid: 435722b74b866cc438aae1e654f6a940, type: 2}
+  - {fileID: 11400000, guid: 7a86c4011d02f63408c53c4637e687b3, type: 2}
+  CurrentDialogIndex: 1
+  IntroDone: 0
+  OutroDone: 0
+  EncounterCharacter: 1

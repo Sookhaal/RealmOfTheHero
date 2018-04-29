@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dcb03eb77364f858f4dcad21a524e4a, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  UIText: Judgement
+  TextPool:
+  - '*Strong stare* I see...'
+  - What are you even trying to do like this? You're pathetic.
+  - I guess you're quite weak, aren't you?
+  - Haha, you will be so easy to play with!
+  SelfConfidenceCost: 0
+  ManaCost: 0
+  Unlocked: 1
+  DefaultUnlocked: 1
+  ActionType: 0
+  ActionElement: 2

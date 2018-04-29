@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8d54347237454c83353204f36a4912, type: 3}
+  m_Name: Rival1Female
+  m_EditorClassIdentifier: 
+  Like: 3
+  Neutral: 2
+  Hate: 1
+  Arouseness: 0
+  DefaultArouseness: 0
+  EncounterCompleted: 0
+  CannotLose: 1
+  Failures: 0
+  RequiredArouseness: 100
+  IntroDialogTexts:
+  - {fileID: 11400000, guid: 33f1780f2d44f404582d86da05e79e25, type: 2}
+  - {fileID: 11400000, guid: 9db076fe7c55d4f449f1bf4d099fa861, type: 2}
+  WinDialogTexts:
+  - {fileID: 11400000, guid: 7a5fa63fdc3a7ed40be1cb46d3c5f1c1, type: 2}
+  - {fileID: 11400000, guid: d6edfd224879b594ebc62c21b5bbfc37, type: 2}
+  - {fileID: 11400000, guid: 3b17eba066426754e9395222f9d462c9, type: 2}
+  - {fileID: 11400000, guid: b5d23da0021892f4a925ce5e9fde5ee9, type: 2}
+  - {fileID: 11400000, guid: fca4d7088f23c074c92dfc59a5829ea9, type: 2}
+  LostDialogTexts:
+  - {fileID: 11400000, guid: 9b8812c95c12b344b962f24cac6c8e44, type: 2}
+  LikeDialogTexts:
+  - {fileID: 11400000, guid: 02096054251b2884488976e85e8f752d, type: 2}
+  - {fileID: 11400000, guid: 3e487cd89832d374b813be4bcb371307, type: 2}
+  - {fileID: 11400000, guid: 52acac4391eb82b4d9237316b86ade9f, type: 2}
+  DislikeDialogTexts:
+  - {fileID: 11400000, guid: 58116c2d5dd7fe8449bc3599ca19ea06, type: 2}
+  - {fileID: 11400000, guid: 7d544ee21e2a52948925a5f52ea22baf, type: 2}
+  - {fileID: 11400000, guid: 74b5916ceae16f44d805d5b2a7f9e368, type: 2}
+  NeutralDialogTexts:
+  - {fileID: 11400000, guid: 4400cd7386e18bd45aa9691a5b9ca063, type: 2}
+  - {fileID: 11400000, guid: 6039e5f2d171a1b41a9f72765ece8f6d, type: 2}
+  - {fileID: 11400000, guid: dfaf8cba52d88e24aae6312ec0ecfa95, type: 2}
+  CurrentDialogIndex: 0
+  IntroDone: 0
+  OutroDone: 0
+  EncounterCharacter: 2
